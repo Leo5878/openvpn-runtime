@@ -12,6 +12,7 @@ This project builds a stripped-down OpenVPN binary with only the functionality r
 * OpenSSL backend
 * Small binary size
 * Easy integration into other applications
+* Less than 500 KB stripped executable
 
 ## Disabled Components
 
