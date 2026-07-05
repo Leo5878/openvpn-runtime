@@ -1,7 +1,7 @@
 #!/bin/sh
 set -e
 
-OVPN_VERSION=2.7.1
+OVPN_VERSION=2.7.5
 dist=/app
 binary=src/openvpn/openvpn
 
